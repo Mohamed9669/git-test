@@ -3,3 +3,8 @@ Ingrédients :
 - Farine
 - Sucre
 - Chocolat
+
+Étapes de cuisson :
+1. Préchauffez le four à 180°C.
+2. Mélangez les ingrédients.
+3. Enfournez pendant 30 minutes.
